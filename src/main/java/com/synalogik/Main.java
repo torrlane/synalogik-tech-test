@@ -19,7 +19,7 @@ public class Main {
      *
      * The contents of the file should be UTF8 encoded.
      *
-     * A word is assumed to be made up of alphanumeric characters (e.g. a-z, A-Z, 1-9) and '\' and '&'.
+     * A word is assumed to be made up of alphanumeric characters (e.g. a-z, A-Z, 1-9) and '/' and '&'.
      * Any other characters are ignored.
      *
      * @param args
