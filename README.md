@@ -21,4 +21,4 @@ cd target
 java -jar text-stats-1.0-SNAPSHOT.jar path_to_my_file
 ```
 
-See the `com.synalogik.Main` class for criteria for deciding what text is considered to be a word
+See the `com.synalogik.Main` class for criteria for deciding whether a piece of text is considered to be a word
