@@ -1,13 +1,20 @@
 # Synalogik tech test
 
-This is my solution to the coding test. Sadly, it wasn't good enough to get me past the coding test part of the interview process. I have absolutely no idea what is wrong with it. However, to improve, I might want to consider thinking about what constitutes a word. In my solution I use a relatively simple regex to split the text into words. However, that might not be sufficient. Maybe I should have tried to contact the recruiter or HR person to ask for more requirements around what constitutes a word. Similarly, I could have put more thought into what should be considered a word. This might entail writing my own implementation of the scanner in the Main class. 
+# Thoughts on failing the test
+This is my solution to the coding test. Sadly, it wasn't good enough to get me past the coding test part of the interview process. I have absolutely no idea what is wrong with it. Here are some ideas of things that I could have done better:
+
+* Thought harder and gave more justification for my criteria for what constitutes a word. In my solution I use a relatively simple regex to split the text into words. I should have added some javadoc or markdown in the README to explain and justify that criteria.
+* Contact the recruiter or HR person to ask for more requirements around what constitutes a word. It might have been a test of initiative - this would have shown them that I have it.
 
 From searching github, the following solutions appear to be reasonably good:
 
 * https://github.com/Larvact/WordCountSynalogik
 * https://github.com/DanMounter99/SYNALOGiKJavaProgrammingTest
+* https://github.com/jdarley/word-length-frequency
 
 I have noticed that they contain considerably more documentation than my submission - either through code comments / javadoc or in the README. 
+
+# How to build and run the code
 
 It has been tested using openjdk17 and maven 3.6.3 on windows 10.
 
