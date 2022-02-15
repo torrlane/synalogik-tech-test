@@ -14,6 +14,8 @@ From searching github, the following solutions appear to be reasonably good:
 
 I have noticed that they contain considerably more documentation than my submission - either through code comments / javadoc or in the README. 
 
+If anyone from Synalogik ever sees this, please feel free to reach out to me to let me know how I could have improved my solution. 
+
 # How to build and run the code
 
 It has been tested using openjdk17 and maven 3.6.3 on windows 10.
