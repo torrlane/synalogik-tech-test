@@ -8,9 +8,9 @@ This is my solution to the coding test. Sadly, it wasn't good enough to get me p
 
 From searching github, the following solutions appear to be reasonably good:
 
-* https://github.com/Larvact/WordCountSynalogik
-* https://github.com/DanMounter99/SYNALOGiKJavaProgrammingTest
-* https://github.com/jdarley/word-length-frequency
+* https://github.com/torrlane/WordCountSynalogik
+* https://github.com/torrlane/SYNALOGiKJavaProgrammingTest
+* https://github.com/torrlane/word-length-frequency
 
 I have noticed that they contain considerably more documentation than my submission - either through code comments / javadoc or in the README. 
 
