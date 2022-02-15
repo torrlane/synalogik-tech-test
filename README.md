@@ -1,7 +1,7 @@
 # Synalogik tech test
 
 # Thoughts on failing the test
-This is my solution to the coding test. Sadly, it wasn't good enough to get me past the coding test part of the interview process. I have absolutely no idea what is wrong with it. Here are some ideas of things that I could have done better:
+This is my solution to the coding test. Sadly, it wasn't good enough to get me past the coding test part of the interview process. Here are some ideas of things that I could have done better:
 
 * Thought harder and gave more justification for my criteria for what constitutes a word. In my solution I use a relatively simple regex to split the text into words. I should have added some javadoc or markdown in the README to explain and justify that criteria.
 * Contact the recruiter or HR person to ask for more requirements around what constitutes a word. It might have been a test of initiative - this would have shown them that I have it.
