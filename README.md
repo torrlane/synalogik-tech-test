@@ -11,6 +11,7 @@ From searching github, the following solutions appear to be reasonably good:
 * https://github.com/torrlane/WordCountSynalogik
 * https://github.com/torrlane/SYNALOGiKJavaProgrammingTest
 * https://github.com/torrlane/word-length-frequency
+* https://github.com/torrlane/Synalogik
 
 I have noticed that they contain considerably more documentation than my submission - either through code comments / javadoc or in the README. 
 
