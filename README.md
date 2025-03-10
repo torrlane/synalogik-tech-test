@@ -13,6 +13,7 @@ From searching github, the following solutions appear to be reasonably good:
 * https://github.com/torrlane/word-length-frequency
 * https://github.com/torrlane/Synalogik
 * https://github.com/torrlane/challenge
+* https://github.com/torrlane/synalogik-wordcount
 
 I have noticed that they contain considerably more documentation than my submission - either through code comments / javadoc or in the README. 
 
